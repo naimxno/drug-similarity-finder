@@ -38,5 +38,5 @@ All scores are below 0.4, which means none of these drugs is a close structural 
 - Seaborn
 
 ## How to run
-pip install rdkit
-Open in Google Colab and run all cells.
+- !pip install rdkit
+- Open in Google Colab and run all cells.
