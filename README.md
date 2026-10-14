@@ -4,7 +4,7 @@
 
 ### Dataset
 
-The dataset contains 24 common drugs. SMILES strings were collected from the ChEMBL database (https://www.ebi.ac.uk/chembl/). Each SMILES was checked against the ChEMBL molecular weight for the same compound. Several entries had incorrect or incomplete structures and were corrected. Entries that could not be represented as a single small molecule (for example, insulin, a protein) were removed. A duplicate entry (acetaminophen and paracetamol, the same compound) was also removed. The final dataset is saved as [drugs csv File ](drugs.csv).
+The dataset contains 24 common drugs. SMILES strings were collected from the [ChEMBL database](https://www.ebi.ac.uk/chembl/). Each SMILES was checked against the ChEMBL molecular weight for the same compound. [0.816] entries had incorrect or incomplete structures and were corrected. Entries that could not be represented as a single small molecule (for example, insulin, a protein) were removed. A duplicate entry (paracetamol, the same compound as acetaminophen) was also removed. Penicillin Calcium is kept as a salt form of Penicillin G, so its high similarity to Penicillin G is expected. The final dataset is saved as [drugs.csv](https://github.com/naimxno/drug-similarity-finder/blob/main/drugs.csv).
 
 ### Method
 
