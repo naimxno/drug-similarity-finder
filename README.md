@@ -27,7 +27,8 @@ The five drugs most similar to Aspirin (Tanimoto similarity) are:
 | Penicillin G | 0.175 | Shares carboxylic acid and amide carbonyl environments. |
 | Ciprofloxacin | 0.167 | Shares an aromatic carboxylic acid environment. |
 
-All scores are below 0.4, which means none of these drugs is a close structural analogue of Aspirin. The heatmap of all pairwise similarities is shown below: [heatmap image](heatmap.png.png)
+All scores are below 0.4, which means none of these drugs is a close structural analogue of Aspirin. The heatmap of all pairwise similarities is shown below: 
+![heatmap image](heatmap.png.png)
 
 
 ## Tools used
